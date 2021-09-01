@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\JHONNY\source\repos\Cacho\Cacho\Source.cpp(1529,7): warning C4101: 'tecla': variable local sin referencia
+C:\Users\JHONNY\source\repos\Cacho\Cacho\Source.cpp(1602,7): warning C4101: 'tecla': variable local sin referencia
+C:\Users\JHONNY\source\repos\Cacho\Cacho\Source.cpp(1766,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Cacho.vcxproj -> C:\Users\JHONNY\source\repos\Cacho\x64\Debug\Cacho.exe
